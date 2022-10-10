@@ -1,1 +1,1 @@
-Привет! Я fullstack web-dev
+Привет! Я full-stack web-dev.
